@@ -7,13 +7,13 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks
 x-kinRank: "8"
 x-alexaRank: "4410300"
 tags: 46elks
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/46elks/master/_listings/46elks/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
-- type: x-apijson--authoritative
+- type: x-api-json--authoritative
   url: http://pi.thure.org/apis.json
 - type: x-blog
   url: http://46elks.com/blog/
